@@ -13,3 +13,8 @@ without altering their commit history. Meanwhile, a rebase apply the commit hist
 of the merging branch on top of the current branch so the commit history of the merging branch is altered, 
 making the history look more linear from the point of the rebase. The problem with this is that it can lead to confusion 
 history if multiple users are working on the same repo when they want to check the commit history.
+
+Q4: What are looking forward to this semester?
+
+Answer: Learning the different functions of a databsae and their inner working.
+
