@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: For version control and backing up work
