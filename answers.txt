@@ -5,3 +5,11 @@ Answer: For version control and backing up work
 Q2: What field could data science be applied to? Give an Example
 
 Answer: Machine Learning. Traing AI
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: On the surface level, merging merge the commit history of the two  branches together
+without altering their commit history. Meanwhile, a rebase apply the commit history
+of the merging branch on top of the current branch so the commit history of the merging branch is altered, 
+making the history look more linear from the point of the rebase. The problem with this is that it can lead to confusion 
+history if multiple users are working on the same repo when they want to check the commit history.
